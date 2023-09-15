@@ -6,4 +6,6 @@ Modify the "val" path to the directory that you store the data.
 
 The "AID_classes_indices.json" file is only for the AID dataset.
 
-`pip install -r requirements.txt`
+
+Run `pip install -r requirements.txt` before testing.
+
